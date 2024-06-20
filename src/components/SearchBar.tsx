@@ -1,45 +1,25 @@
 "use client"
-import React, { useState } from "react"
+import { useState } from "react"
 import styles from "./SearchBar.module.css"
 
-const SearchBar = () => {
-	const [searchTerm, setSearchTerm] = useState("")
-	const [suggestions, setSuggestions] = useState([])
+type SearchBarProps = {
+	ingredients: string[]
+}
 
-	const foodList = [
-		"Water",
-		"Flour",
-		"Sugar",
-		"Salt",
-		"Butter",
-		"Milk",
-		"Eggs",
-		"Baking Powder",
-		"Baking Soda",
-		"Oil",
-		"Vinegar",
-		"Tomato Sauce",
-		"Cheese",
-		"Onions",
-		"Garlic",
-		"Potatoes",
-		"Carrots",
-		"Celery",
-		"Broccoli",
-		"Chicken",
-	]
+const SearchBar: React.FC<SearchBarProps> = ({ ingredients }) => {
+	const [searchTerm, setSearchTerm] = useState<string>("")
+	const [suggestions, setSuggestions] = useState<string[]>([])
 
-	const handleChange = e => {
+	const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
 		setSearchTerm(e.target.value)
-		const matchingSuggestions = foodList.filter(item => item.toLowerCase().includes(searchTerm.toLowerCase()))
+		const matchingSuggestions = ingredients.filter(item => item.toLowerCase().includes(searchTerm.toLowerCase()))
 		setSuggestions(matchingSuggestions)
 	}
 
-	const handleSuggestionClick = suggestion => {
+	const handleSuggestionClick = (suggestion: string) => {
 		setSearchTerm(suggestion)
 		setSuggestions([])
 	}
-
 	return (
 		<div className={styles.searchBar}>
 			<input type="text" value={searchTerm} onChange={handleChange} placeholder="Type in a food to see its nutrition" />
