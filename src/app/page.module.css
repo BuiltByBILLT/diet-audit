@@ -1,0 +1,13 @@
+.heading {
+	text-align: center;
+	margin-top: 50px;
+}
+
+.heading h1 {
+	font-size: 3rem;
+	margin-bottom: 10px;
+}
+
+.heading h2 {
+	font-size: 2rem;
+}
