@@ -1,19 +1,22 @@
 import styles from "./page.module.css"
 import SearchBar from "@/components/SearchBar"
-import data from "../data/ingredients.json"
+import data from "../data/info.json"
 
-// Define the type for the ingredients data
+// Updated IngredientData type to match the new data structure
 type IngredientData = {
-	ingredients: string[]
+	ingredients: { name: string; info: Record<string, string> }[]
 }
 
 export default function Home() {
-	// Explicitly type the data variable as IngredientData
 	const ingredientsData: IngredientData = data
+
+	// Extracting only an array of ingredient names
+	const ingredientNames = ingredientsData.ingredients.map(({ name }) => name)
+
 	return (
 		<main className={styles.main}>
 			<Heading />
-			<SearchBar ingredients={ingredientsData.ingredients} />
+			<SearchBar ingredients={ingredientNames} />
 		</main>
 	)
 }

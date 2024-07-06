@@ -1,0 +1,484 @@
+{
+	"ingredients": [
+		{
+			"name": "Flour",
+			"info": {
+				"Vitamin D": "low",
+				"Vitamin B12": "low",
+				"Iron": "medium",
+				"Calcium": "low",
+				"Magnesium": "medium",
+				"Iodine": "low",
+				"Vitamin B9": "medium",
+				"Potassium": "low",
+				"Vitamin A": "low",
+				"Vitamin C": "low"
+			}
+		},
+		{
+			"name": "Sugar",
+			"info": {
+				"Vitamin D": "low",
+				"Vitamin B12": "low",
+				"Iron": "low",
+				"Calcium": "low",
+				"Magnesium": "low",
+				"Iodine": "low",
+				"Vitamin B9": "low",
+				"Potassium": "low",
+				"Vitamin A": "low",
+				"Vitamin C": "low"
+			}
+		},
+		{
+			"name": "Salt",
+			"info": {
+				"Vitamin D": "low",
+				"Vitamin B12": "low",
+				"Iron": "low",
+				"Calcium": "low",
+				"Magnesium": "low",
+				"Iodine": "medium",
+				"Vitamin B9": "low",
+				"Potassium": "low",
+				"Vitamin A": "low",
+				"Vitamin C": "low"
+			}
+		},
+		{
+			"name": "Butter",
+			"info": {
+				"Vitamin D": "medium",
+				"Vitamin B12": "low",
+				"Iron": "low",
+				"Calcium": "low",
+				"Magnesium": "low",
+				"Iodine": "low",
+				"Vitamin B9": "low",
+				"Potassium": "low",
+				"Vitamin A": "high",
+				"Vitamin C": "low"
+			}
+		},
+		{
+			"name": "Milk",
+			"info": {
+				"Vitamin D": "medium",
+				"Vitamin B12": "medium",
+				"Iron": "low",
+				"Calcium": "high",
+				"Magnesium": "medium",
+				"Iodine": "medium",
+				"Vitamin B9": "medium",
+				"Potassium": "medium",
+				"Vitamin A": "medium",
+				"Vitamin C": "low"
+			}
+		},
+		{
+			"name": "Eggs",
+			"info": {
+				"Vitamin D": "medium",
+				"Vitamin B12": "high",
+				"Iron": "medium",
+				"Calcium": "medium",
+				"Magnesium": "low",
+				"Iodine": "medium",
+				"Vitamin B9": "medium",
+				"Potassium": "low",
+				"Vitamin A": "medium",
+				"Vitamin C": "low"
+			}
+		},
+		{
+			"name": "Baking Powder",
+			"info": {
+				"Vitamin D": "low",
+				"Vitamin B12": "low",
+				"Iron": "low",
+				"Calcium": "medium",
+				"Magnesium": "low",
+				"Iodine": "low",
+				"Vitamin B9": "low",
+				"Potassium": "low",
+				"Vitamin A": "low",
+				"Vitamin C": "low"
+			}
+		},
+		{
+			"name": "Baking Soda",
+			"info": {
+				"Vitamin D": "low",
+				"Vitamin B12": "low",
+				"Iron": "low",
+				"Calcium": "low",
+				"Magnesium": "low",
+				"Iodine": "low",
+				"Vitamin B9": "low",
+				"Potassium": "low",
+				"Vitamin A": "low",
+				"Vitamin C": "low"
+			}
+		},
+		{
+			"name": "Oil",
+			"info": {
+				"Vitamin D": "low",
+				"Vitamin B12": "low",
+				"Iron": "low",
+				"Calcium": "low",
+				"Magnesium": "low",
+				"Iodine": "low",
+				"Vitamin B9": "low",
+				"Potassium": "low",
+				"Vitamin A": "low",
+				"Vitamin C": "low"
+			}
+		},
+		{
+			"name": "Vinegar",
+			"info": {
+				"Vitamin D": "low",
+				"Vitamin B12": "low",
+				"Iron": "low",
+				"Calcium": "low",
+				"Magnesium": "low",
+				"Iodine": "low",
+				"Vitamin B9": "low",
+				"Potassium": "low",
+				"Vitamin A": "low",
+				"Vitamin C": "low"
+			}
+		},
+		{
+			"name": "Tomato Sauce",
+			"info": {
+				"Vitamin D": "low",
+				"Vitamin B12": "low",
+				"Iron": "low",
+				"Calcium": "low",
+				"Magnesium": "low",
+				"Iodine": "low",
+				"Vitamin B9": "medium",
+				"Potassium": "medium",
+				"Vitamin A": "medium",
+				"Vitamin C": "medium"
+			}
+		},
+		{
+			"name": "Cheese",
+			"info": {
+				"Vitamin D": "medium",
+				"Vitamin B12": "high",
+				"Iron": "low",
+				"Calcium": "high",
+				"Magnesium": "medium",
+				"Iodine": "medium",
+				"Vitamin B9": "low",
+				"Potassium": "low",
+				"Vitamin A": "high",
+				"Vitamin C": "low"
+			}
+		},
+		{
+			"name": "Onions",
+			"info": {
+				"Vitamin D": "low",
+				"Vitamin B12": "low",
+				"Iron": "low",
+				"Calcium": "low",
+				"Magnesium": "low",
+				"Iodine": "low",
+				"Vitamin B9": "medium",
+				"Potassium": "medium",
+				"Vitamin A": "low",
+				"Vitamin C": "medium"
+			}
+		},
+		{
+			"name": "Garlic",
+			"info": {
+				"Vitamin D": "low",
+				"Vitamin B12": "low",
+				"Iron": "low",
+				"Calcium": "low",
+				"Magnesium": "low",
+				"Iodine": "low",
+				"Vitamin B9": "medium",
+				"Potassium": "low",
+				"Vitamin A": "low",
+				"Vitamin C": "medium"
+			}
+		},
+		{
+			"name": "Potatoes",
+			"info": {
+				"Vitamin D": "low",
+				"Vitamin B12": "low",
+				"Iron": "medium",
+				"Calcium": "low",
+				"Magnesium": "medium",
+				"Iodine": "low",
+				"Vitamin B9": "medium",
+				"Potassium": "high",
+				"Vitamin A": "low",
+				"Vitamin C": "medium"
+			}
+		},
+		{
+			"name": "Carrots",
+			"info": {
+				"Vitamin D": "low",
+				"Vitamin B12": "low",
+				"Iron": "low",
+				"Calcium": "low",
+				"Magnesium": "low",
+				"Iodine": "low",
+				"Vitamin B9": "medium",
+				"Potassium": "medium",
+				"Vitamin A": "high",
+				"Vitamin C": "medium"
+			}
+		},
+		{
+			"name": "Celery",
+			"info": {
+				"Vitamin D": "low",
+				"Vitamin B12": "low",
+				"Iron": "low",
+				"Calcium": "low",
+				"Magnesium": "low",
+				"Iodine": "low",
+				"Vitamin B9": "medium",
+				"Potassium": "medium",
+				"Vitamin A": "low",
+				"Vitamin C": "high"
+			}
+		},
+		{
+			"name": "Broccoli",
+			"info": {
+				"Vitamin D": "low",
+				"Vitamin B12": "low",
+				"Iron": "medium",
+				"Calcium": "medium",
+				"Magnesium": "medium",
+				"Iodine": "low",
+				"Vitamin B9": "high",
+				"Potassium": "medium",
+				"Vitamin A": "high",
+				"Vitamin C": "high"
+			}
+		},
+		{
+			"name": "Chicken",
+			"info": {
+				"Vitamin D": "medium",
+				"Vitamin B12": "high",
+				"Iron": "medium",
+				"Calcium": "medium",
+				"Magnesium": "medium",
+				"Iodine": "medium",
+				"Vitamin B9": "medium",
+				"Potassium": "medium",
+				"Vitamin A": "medium",
+				"Vitamin C": "low"
+			}
+		},
+		{
+			"name": "Beef",
+			"info": {
+				"Vitamin D": "medium",
+				"Vitamin B12": "high",
+				"Iron": "high",
+				"Calcium": "medium",
+				"Magnesium": "medium",
+				"Iodine": "medium",
+				"Vitamin B9": "medium",
+				"Potassium": "medium",
+				"Vitamin A": "low",
+				"Vitamin C": "low"
+			}
+		},
+		{
+			"name": "Pork",
+			"info": {
+				"Vitamin D": "medium",
+				"Vitamin B12": "high",
+				"Iron": "medium",
+				"Calcium": "medium",
+				"Magnesium": "medium",
+				"Iodine": "medium",
+				"Vitamin B9": "medium",
+				"Potassium": "medium",
+				"Vitamin A": "low",
+				"Vitamin C": "low"
+			}
+		},
+		{
+			"name": "Fish",
+			"info": {
+				"Vitamin D": "high",
+				"Vitamin B12": "high",
+				"Iron": "medium",
+				"Calcium": "medium",
+				"Magnesium": "medium",
+				"Iodine": "high",
+				"Vitamin B9": "medium",
+				"Potassium": "medium",
+				"Vitamin A": "medium",
+				"Vitamin C": "low"
+			}
+		},
+		{
+			"name": "Shrimp",
+			"info": {
+				"Vitamin D": "medium",
+				"Vitamin B12": "high",
+				"Iron": "medium",
+				"Calcium": "medium",
+				"Magnesium": "medium",
+				"Iodine": "high",
+				"Vitamin B9": "medium",
+				"Potassium": "medium",
+				"Vitamin A": "medium",
+				"Vitamin C": "low"
+			}
+		},
+		{
+			"name": "Lobster",
+			"info": {
+				"Vitamin D": "medium",
+				"Vitamin B12": "high",
+				"Iron": "medium",
+				"Calcium": "medium",
+				"Magnesium": "medium",
+				"Iodine": "high",
+				"Vitamin B9": "medium",
+				"Potassium": "medium",
+				"Vitamin A": "medium",
+				"Vitamin C": "low"
+			}
+		},
+		{
+			"name": "Crab",
+			"info": {
+				"Vitamin D": "medium",
+				"Vitamin B12": "high",
+				"Iron": "medium",
+				"Calcium": "medium",
+				"Magnesium": "medium",
+				"Iodine": "high",
+				"Vitamin B9": "medium",
+				"Potassium": "medium",
+				"Vitamin A": "medium",
+				"Vitamin C": "low"
+			}
+		},
+		{
+			"name": "Oysters",
+			"info": {
+				"Vitamin D": "medium",
+				"Vitamin B12": "high",
+				"Iron": "medium",
+				"Calcium": "medium",
+				"Magnesium": "medium",
+				"Iodine": "high",
+				"Vitamin B9": "medium",
+				"Potassium": "medium",
+				"Vitamin A": "medium",
+				"Vitamin C": "low"
+			}
+		},
+		{
+			"name": "Clams",
+			"info": {
+				"Vitamin D": "medium",
+				"Vitamin B12": "high",
+				"Iron": "medium",
+				"Calcium": "medium",
+				"Magnesium": "medium",
+				"Iodine": "high",
+				"Vitamin B9": "medium",
+				"Potassium": "medium",
+				"Vitamin A": "medium",
+				"Vitamin C": "low"
+			}
+		},
+		{
+			"name": "Mussels",
+			"info": {
+				"Vitamin D": "medium",
+				"Vitamin B12": "high",
+				"Iron": "medium",
+				"Calcium": "medium",
+				"Magnesium": "medium",
+				"Iodine": "high",
+				"Vitamin B9": "medium",
+				"Potassium": "medium",
+				"Vitamin A": "medium",
+				"Vitamin C": "low"
+			}
+		},
+		{
+			"name": "Squid",
+			"info": {
+				"Vitamin D": "medium",
+				"Vitamin B12": "high",
+				"Iron": "medium",
+				"Calcium": "medium",
+				"Magnesium": "medium",
+				"Iodine": "high",
+				"Vitamin B9": "medium",
+				"Potassium": "medium",
+				"Vitamin A": "medium",
+				"Vitamin C": "low"
+			}
+		},
+		{
+			"name": "Octopus",
+			"info": {
+				"Vitamin D": "medium",
+				"Vitamin B12": "high",
+				"Iron": "medium",
+				"Calcium": "medium",
+				"Magnesium": "medium",
+				"Iodine": "high",
+				"Vitamin B9": "medium",
+				"Potassium": "medium",
+				"Vitamin A": "medium",
+				"Vitamin C": "low"
+			}
+		},
+		{
+			"name": "Soy Sauce",
+			"info": {
+				"Vitamin D": "low",
+				"Vitamin B12": "low",
+				"Iron": "medium",
+				"Calcium": "medium",
+				"Magnesium": "medium",
+				"Iodine": "medium",
+				"Vitamin B9": "medium",
+				"Potassium": "medium",
+				"Vitamin A": "medium",
+				"Vitamin C": "low"
+			}
+		},
+		{
+			"name": "Rice",
+			"info": {
+				"Vitamin D": "low",
+				"Vitamin B12": "low",
+				"Iron": "medium",
+				"Calcium": "low",
+				"Magnesium": "medium",
+				"Iodine": "low",
+				"Vitamin B9": "medium",
+				"Potassium": "medium",
+				"Vitamin A": "low",
+				"Vitamin C": "low"
+			}
+		}
+	]
+}
